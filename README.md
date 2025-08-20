@@ -1,0 +1,1 @@
+Este projeto é uma API RESTful para um sistema de fórum de discussão, desenvolvida como parte do Desafio de Codificação do programa Oracle Next Education (ONE). A aplicação foi construída para gerenciar uma plataforma completa de fórum, com funcionalidades para perfis, cursos, tópicos e respostas.
